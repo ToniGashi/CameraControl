@@ -1,14 +1,13 @@
-# Controls:
+Controls:
 
-F - When clicked on the direction of a camera grabs that camera or interact with the camera 
+    F - When clicked on the direction of a camera grabs that camera or interact with the camera 
 source (the cube on top of the stais which lets you look at the cameras).
 
-0 - Click when looking at all the cameras to get control of the character
+    0 - Click when looking at all the cameras to get control of the character
 
-C - shows where you can put the camera if you click the left mouse button, if you have any 
+    C - shows where you can put the camera if you click the left mouse button, if you have any 
 cameras in hand
 
-T- If you have the spider in hand, you will be able to move as a spider and see what the spider 
+    T- If you have the spider in hand, you will be able to move as a spider and see what the spider 
 sees
-
-(Click '0' to exit)
+    (Click '0' to exit)
